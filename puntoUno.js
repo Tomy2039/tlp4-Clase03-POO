@@ -25,3 +25,4 @@ function CuentaBancaria (titular, saldoInicial) {
 const cuenta = new CuentaBancaria('Tomas Ramos', 10000)
 console.log(cuenta.saldoInicial)
 Object.assign(CuentaBancaria.prototype, cuentaBancariaPrototype);
+
