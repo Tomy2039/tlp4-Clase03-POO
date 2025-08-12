@@ -1,3 +1,4 @@
+//4
 String.prototype.toUpperCase = function() {
   return "ESTO ESTÁ PROHIBIDO";
 };
